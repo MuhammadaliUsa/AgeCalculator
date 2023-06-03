@@ -1,0 +1,15 @@
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\bin\Debug\net7.0\AgeCalculator.exe
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\bin\Debug\net7.0\AgeCalculator.deps.json
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\bin\Debug\net7.0\AgeCalculator.runtimeconfig.json
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\bin\Debug\net7.0\AgeCalculator.dll
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\bin\Debug\net7.0\AgeCalculator.pdb
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.AssemblyReference.cache
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfoInputs.cache
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfo.cs
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.dll
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\refint\AgeCalculator.dll
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.pdb
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\AgeCalculator.genruntimeconfig.cache
+D:\c#\AgeCalculator\AgeCalculator\AgeCalculator\obj\Debug\net7.0\ref\AgeCalculator.dll
